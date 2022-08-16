@@ -1,8 +1,5 @@
 # Привет!
 
-![meme](https://sun9-16.userapi.com/impf/Bs3Wb49GQLAw3lFsob-dUPOh4UJ8mHIIeH1Bdw/zh90b4IVndE.jpg?size=236x334&quality=96&sign=c76dd3a1357b60a80b03584d3c178ab4&type=album)
-
-
 ## Мои соцсети
 [![VK](https://img.shields.io/badge/вконтакте-%232E87FB.svg?&style=for-the-badge&logo=vk&logoColor=white)](https://vk.com/swbuwk)
 [![INST](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](http://instagram.com/swbuwk?utm_source=qr)
