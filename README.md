@@ -1,3 +1,5 @@
+Middle frontend dev/
+
 ## Social networks:
 [![VK](https://img.shields.io/badge/вконтакте-%232E87FB.svg?&style=for-the-badge&logo=vk&logoColor=white)](https://vk.com/swbuwk)
 [![INST](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](http://instagram.com/swbuwk?utm_source=qr)
