@@ -1,4 +1,4 @@
-Middle frontend dev/
+Frontend developer and funny things developes
 
 ## Social networks:
 [![VK](https://img.shields.io/badge/вконтакте-%232E87FB.svg?&style=for-the-badge&logo=vk&logoColor=white)](https://vk.com/swbuwk)
