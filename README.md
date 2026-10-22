@@ -1,4 +1,4 @@
-Senior Frontend developer at HSE ART AND DESIGN SCHOOL
+#### Senior Frontend developer at HSE ART AND DESIGN SCHOOL
 
 ## Social networks:
 [![YT](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCfhHgcFKPNA3lxAtKg_ixng)
