@@ -1,7 +1,6 @@
-Frontend developer and overall IT nerd 😋
+Senior Frontend developer at HSE ART AND DESIGN SCHOOL
 
 ## Social networks:
-[![VK](https://img.shields.io/badge/вконтакте-%232E87FB.svg?&style=for-the-badge&logo=vk&logoColor=white)](https://vk.com/swbuwk)
 [![YT](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCfhHgcFKPNA3lxAtKg_ixng)
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/473799916851036161)
 [![Steam](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/id/swbuwk/)
